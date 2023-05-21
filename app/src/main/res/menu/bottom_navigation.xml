@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/baseline_view_list_24"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/navigation_add_stories"
+        android:icon="@drawable/baseline_add_a_photo_24"
+        android:title="@string/add" />
+
+    <item
+        android:id="@+id/navigation_maps"
+        android:icon="@drawable/baseline_map_24"
+        android:title="@string/maps_title" />
+
+</menu>
